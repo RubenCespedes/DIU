@@ -1,0 +1,42 @@
+@font-face {
+  font-family: "Dosis-Regular";
+  src: url("../fonts/Dosis-Regular.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Dosis-Regular.ttf")  format("truetype"),
+       url("") format("opentype");
+}
+@font-face {
+  font-family: "Dosis-Bold";
+  src: url("../fonts/Dosis-Bold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Dosis-Bold.ttf")  format("truetype"),
+       url("") format("opentype");
+}
+@font-face {
+  font-family: "Dosis-Light";
+  src: url("../fonts/Dosis-Light.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Dosis-Light.ttf")  format("truetype"),
+       url("") format("opentype");
+}
+@font-face {
+  font-family: "Dosis-Medium";
+  src: url("../fonts/Dosis-Medium.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Dosis-Medium.ttf")  format("truetype"),
+       url("") format("opentype");
+}
+@font-face {
+  font-family: "Dosis-SemiBold";
+  src: url("../fonts/Dosis-SemiBold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Dosis-SemiBold.ttf")  format("truetype"),
+       url("") format("opentype");
+}
+@font-face {
+  font-family: "Dosis-ExtraBold";
+  src: url("../fonts/Dosis-ExtraBold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Dosis-ExtraBold.ttf")  format("truetype"),
+       url("") format("opentype");
+}
+@font-face {
+  font-family: "Dosis-UltraLight";
+  src: url("../fonts/Dosis-UltraLight.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Dosis-UltraLight.ttf")  format("truetype"),
+       url("") format("opentype");
+}
